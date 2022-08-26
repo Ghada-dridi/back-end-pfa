@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.test.dynamix","c":"DynamixApplication","l":"DynamixApplication()","u":"%3Cinit%3E()"},{"p":"com.test.dynamix","c":"DynamixApplication","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
